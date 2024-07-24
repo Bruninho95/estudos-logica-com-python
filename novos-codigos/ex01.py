@@ -1,4 +1,4 @@
-
+ 
 # Lista de compras inicial (vazia)
 lista_de_compras = []
 
